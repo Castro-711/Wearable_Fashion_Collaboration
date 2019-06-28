@@ -17,6 +17,8 @@
 //   NEO_RGB     Pixels are wired for RGB bitstream (v1 FLORA pixels, not v2)
 //   NEO_RGBW    Pixels are wired for RGBW bitstream (NeoPixel RGBW products)
 
+// Adding a comment to verify if I can use my personal github with the ghe version in work
+
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(131, PIN, NEO_RGB + NEO_KHZ800);
 
 // IMPORTANT: To reduce NeoPixel burnout risk, add 1000 uF capacitor across
